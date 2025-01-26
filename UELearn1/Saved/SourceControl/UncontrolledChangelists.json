@@ -9,7 +9,10 @@
 				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/Characters/M_Body.uasset",
 				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/Characters/SKM_Villager.uasset",
 				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/Characters/SKM_Villager_PhysicsAsset.uasset",
-				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/Characters/SKM_Villager_Skeleton.uasset"
+				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/Characters/SKM_Villager_Skeleton.uasset",
+				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/Characters/Textures/T_Villager.uasset",
+				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/Characters/Textures/T_Villager_MRSS.uasset"
 			]
 		}
 	]
