@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/Characters/M_Body.uasset",
+				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/Characters/SKM_Villager.uasset",
+				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/Characters/SKM_Villager_PhysicsAsset.uasset",
+				"D:/Users/HP/Game Dev/UELearnProject1/UELearn1/UELearn1/Content/Characters/SKM_Villager_Skeleton.uasset"
+			]
+		}
+	]
+}
